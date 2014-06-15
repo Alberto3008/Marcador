@@ -11,8 +11,6 @@ namespace Tenis
         String ventaja = "";
         String ganador = "";
 
-		
-		
         public Marcador(Jugador A, Jugador B){
             Primero = A;
             Segundo = B;
