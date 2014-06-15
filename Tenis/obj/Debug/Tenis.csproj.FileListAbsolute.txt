@@ -1,0 +1,22 @@
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
+E:\Tenis\Tenis\obj\Debug\Tenis.exe
+E:\Tenis\Tenis\obj\Debug\Tenis.pdb
+E:\Tenis\Tenis\bin\Debug\Tenis.exe
+E:\Tenis\Tenis\bin\Debug\Tenis.pdb
+E:\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Dropbox\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\Alberto\Dropbox\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\Alberto\Dropbox\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\Alberto\Dropbox\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\Alberto\Dropbox\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Downloads\Alberto_Mendoza_Refactorizar_Tenis\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\Alberto\Downloads\Alberto_Mendoza_Refactorizar_Tenis\Tenis\Tenis\obj\Debug\Tenis.pdb
